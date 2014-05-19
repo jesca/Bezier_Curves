@@ -11,3 +11,4 @@ steps in the U and V direction. For adaptive triangulation, the error between th
 should be less than the parameter. The error should be distance evaluated at the midpoints
 of the polygon edges and the center of each quadrilateral.
 
+To run the program, type "make" into the command line. Then, ./as3 to open the program. In the command line, an example command looks like: ./as3 teapot.bez 0.1 -a 
